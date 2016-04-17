@@ -1,6 +1,8 @@
 # lambdacd-cron
 
-A Clojure library designed to ... well, that part is up to you.
+A cron for your lambdacd
+
+[![Build Status](https://travis-ci.org/felixb/lambdacd-cron.svg?branch=master)](https://travis-ci.org/felixb/lambdacd-cron)
 
 ## Usage
 

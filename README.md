@@ -8,7 +8,7 @@ A cron for your lambdacd
 
 In project.clj add
 ```clojure
-:dependencies [[lambdacd-git "<most recent version>"]]
+:dependencies [[lambdacd-cron "<most recent version>"]]
 ```
 
 Add the following code to your import statements of your pipeline code
@@ -36,6 +36,10 @@ Currently only numbers and `nil` are supported.
 `nil` translates to `*`.
 Omitted values are filled with `nil`.
 E.g. `(cron 0 12)` translates to `(cron 0 12 nil nil nil)`.
+
+## Contributing
+
+Feel free to propose any change by sending a PR.
 
 ## License
 

@@ -1,6 +1,6 @@
 # lambdacd-cron
 
-A cron for your lambdacd.
+A cron trigger for your [LambdaCD](https://github.com/flosell/lambdacd).
 
 ## Status
 

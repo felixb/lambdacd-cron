@@ -1,4 +1,4 @@
-(defproject lambdacd-cron "0.1.0-SNAPSHOT"
+(defproject lambdacd-cron "0.1.0"
   :description "A cron for your lambdacd"
   :url "https://github.com/felixb/lambdacd-cron"
   :license {:name "Apache License, version 2.0"

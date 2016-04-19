@@ -1,8 +1,12 @@
 # lambdacd-cron
 
-A cron for your lambdacd
+A cron for your lambdacd.
+
+## Status
 
 [![Build Status](https://travis-ci.org/felixb/lambdacd-cron.svg?branch=master)](https://travis-ci.org/felixb/lambdacd-cron)
+
+[![Clojars Project](https://clojars.org/lambdacd-cron/latest-version.svg)](https://clojars.org/lambdacd-cron)
 
 ## Usage
 
